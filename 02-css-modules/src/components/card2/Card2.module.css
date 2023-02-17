@@ -1,0 +1,17 @@
+.card {
+  border: 1px solid blueviolet;
+  background-color: darkcyan;
+  padding: 20px;
+  margin: 5px;
+  font-size: 1.5rem;
+  border-radius: 20px;
+}
+
+.not-used {
+  padding: 20px;
+  color: forestgreen;
+}
+
+div {
+  background-color: white;
+}
